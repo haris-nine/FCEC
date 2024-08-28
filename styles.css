@@ -1,0 +1,37 @@
+* {
+    text-align: center;
+    background-color: #b7ffbf;
+}
+.logo {
+    max-width: 250px;
+}
+
+@media screen and (min-width: 650px) {
+    h1 {
+    font-size: 38px;
+    }
+}
+
+@media screen and (max-width: 649px) {
+    h1 {
+    font-size: 30px;
+    }
+}
+div { 
+    font-size: 24px;
+}
+
+ul {
+    list-style: inside;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+
+}
+
+a {
+    color: #26632d;
+}
+
